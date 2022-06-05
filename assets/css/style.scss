@@ -4,8 +4,16 @@
 @import "{{ site.theme }}";
 
 #header {
-        visibility: hidden;
+        display: none;
 }
-#sale .det_price {
-    display: none;
+.credits.left{
+      position: fixed;
+        bottom: 0;
+          left: 0;
+}
+
+.credits.right{
+      position: fixed;
+        bottom: 0;
+         right: 0;
 }
