@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 ccfooter: cc-by-nc-sa.html
+plugins:
+  - jemoji
