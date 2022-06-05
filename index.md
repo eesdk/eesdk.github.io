@@ -28,3 +28,8 @@
 
 
 {% include {{ site.ccfooter }} %}
+<style>
+#navmain {
+  display: none;
+}
+</style>
