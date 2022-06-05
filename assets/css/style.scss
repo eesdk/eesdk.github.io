@@ -3,23 +3,17 @@
 
 @import "{{ site.theme }}";
 
-#title {
-        display: none;
-}
-
-#header {
+#header, #title p, #title h1, #title hr {
         display: none;
 }
 
 .credits.left{
-       display: inline;
       position: fixed;
         bottom: 0;
           left: 0;
 }
 
 .credits.right{
-       display: inline;
       position: fixed;
         bottom: 0;
          right: 0;
