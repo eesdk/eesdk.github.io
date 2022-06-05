@@ -27,6 +27,4 @@
 
 
 
-{% if page.my_variable %}
-  {% include {{ site.ccfooter }} %}
-{% endif %}
+{% include {{ site.ccfooter }} %}
