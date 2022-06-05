@@ -1,5 +1,5 @@
 
-# Here I've gathered a few Garmin BaseCamp tips.
+# Garmin BaseCamp tips.
 
 
 - [Editing routes and tracks](Editing routes and tracks.md)

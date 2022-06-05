@@ -3,9 +3,10 @@
 
 @import "{{ site.theme }}";
 
-#header {
+#title #header {
         display: none;
 }
+
 .credits.left{
       position: fixed;
         bottom: 0;
@@ -26,3 +27,4 @@
           left: 0px;
          right: 0px;
 }
+
