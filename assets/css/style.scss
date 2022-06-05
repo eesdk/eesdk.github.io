@@ -34,6 +34,15 @@
 #main_content h1 {
          color: inherit;
 }
+#main_content .inner {
+  max-width: 70%;
+}
+
+
+#navback {
+  content: '<A HREF="/">Main page</A>'
+}
+
 
 #cccontent img {
         border: 0;
