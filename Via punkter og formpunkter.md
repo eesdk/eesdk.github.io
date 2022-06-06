@@ -13,7 +13,7 @@ Disse minder om hinanden, men er dog forskellige.
   ikke passeres under navigation (man bliver ikke bedt om at vende om og
   forsøge igen).
 
-  Det andet og følgende punkter ovenfor (med teksten "(_won't alert_)") er **formpunkter)H**.
+  Det andet og følgende punkter ovenfor (med teksten "(_won't alert_)") er **formpunkter)**.
 
   **Formpunkter** kan kun laves ved at konvertere **Via punkter**:
   * Åbn ruten (dobbelt-klik på ruten eller højre-klik og vælg '_Open_')
