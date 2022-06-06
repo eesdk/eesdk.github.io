@@ -2,6 +2,7 @@
 
 - [New England Riders](https://www.newenglandriders.org/learn-basecamp/)
 - [Worcester and Hereford Advanced Motorcyclists](http://www.wham-motorcycling.org/garmin-help/)
+- [JaVaWa GPS tools](https://www.javawa.nl/english.html)
 
 
 
